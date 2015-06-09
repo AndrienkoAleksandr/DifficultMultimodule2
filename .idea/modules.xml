@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DifficultMultimodule.iml" filepath="$PROJECT_DIR$/DifficultMultimodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module2.iml" filepath="$PROJECT_DIR$/module2/module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module3/module3.iml" filepath="$PROJECT_DIR$/module3/module3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module4/module4.iml" filepath="$PROJECT_DIR$/module2/module4/module4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module5/module5.iml" filepath="$PROJECT_DIR$/module2/module5/module5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module5/module6.iml" filepath="$PROJECT_DIR$/module2/module5/module6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module5/module6/module6.iml" filepath="$PROJECT_DIR$/module2/module5/module6/module6.iml" />
+    </modules>
+  </component>
+</project>
