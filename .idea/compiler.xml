@@ -25,6 +25,7 @@
         <module name="module3" />
         <module name="module4" />
         <module name="module5" />
+        <module name="module6 (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
@@ -33,6 +34,8 @@
       <module name="module3" target="1.5" />
       <module name="module4" target="1.5" />
       <module name="module5" target="1.5" />
+      <module name="module6" target="1.5" />
+      <module name="module6 (1)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
